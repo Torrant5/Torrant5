@@ -21,10 +21,6 @@
 - 2019 E資格
 - 2022 G検定
 
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ef1167b0-7175-4b83-8236-b4905d8eacf7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <br>
 
 ## Code
